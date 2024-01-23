@@ -1,0 +1,7 @@
+/* 
+ * Trivial style sheet for a trivial page 
+ */
+
+h1 {color: rgb(240,249,250)}
+body { background-color: rgb(47,178,185); }
+p { color:  rgb(11,83,148); }
